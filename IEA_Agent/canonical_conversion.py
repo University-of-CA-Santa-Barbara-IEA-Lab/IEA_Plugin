@@ -25,7 +25,7 @@ class CanonicalConversion:
 
         previous_questions = [q.content for q in state["messages"][:-1][-10:]]
         formatted_previous_questions = "\n".join(f"{i+1}. {q}" for i, q in enumerate(previous_questions))
-        with open('conversation_examples.txt', 'r') as file:
+        with open('IEA_Agent/conversation_examples.txt', 'r') as file:
             examples = file.read()
 
         prompt = ChatPromptTemplate.from_messages([
