@@ -1,7 +1,7 @@
 
 from langchain_core.prompts import ChatPromptTemplate
-from LLMManger import LLMManager
-from parsers import parser
+from IEA_Agent.LLMManger import LLMManager
+from IEA_Agent.parsers import parser
 import re
 
 prompt_thought = '''You are an advanced AI assistant specialized in semiconductor test data analysis.

@@ -1,8 +1,7 @@
 
 from langchain_core.prompts import ChatPromptTemplate
-from LLMManger import LLMManager
-from PineconeDBManager import PineconeDBManager
-from typing import List
+from IEA_Agent.LLMManger import LLMManager
+from IEA_Agent.PineconeDBManager import PineconeDBManager
 import re
 
 class Reasoner:

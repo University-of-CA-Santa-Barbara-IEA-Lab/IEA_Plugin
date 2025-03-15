@@ -5,7 +5,7 @@
     "."
   ],
   "graphs": {
-    "my_agent": "./main.py:graph"
+    "my_agent": "./IEA_Agent/main.py:graph"
   },
   "env": ".env"
 }

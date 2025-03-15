@@ -1,6 +1,5 @@
 from langchain_openai import OpenAIEmbeddings
 from langchain_core.documents import Document
-from pinecone import Pinecone
 from langchain_pinecone import PineconeVectorStore
 
 class PineconeDBManager:
