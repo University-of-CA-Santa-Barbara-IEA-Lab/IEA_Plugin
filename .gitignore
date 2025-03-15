@@ -1,0 +1,23 @@
+# Environment variables file
+.env
+
+# Virtual environment directories (Python)
+env/
+venv/
+
+# Python bytecode files and cache directories
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Node modules (if applicable)
+node_modules/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db

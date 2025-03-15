@@ -1,0 +1,98 @@
+user query:
+
+How does this compare to our target threshold?
+
+prior user queries:
+
+What was our final test yield for the 7nm chips in January 2024?
+
+Output:
+
+1. **user query**: 
+How does this compare to our target threshold?
+
+2. **complete user query**: 
+How does the final test yield for 7nm chips in January 2024 compare to our target threshold of 95% for lot-level yield?
+
+3. **thoughts**: 
+The current question contains an ambiguous reference ("this") which clearly refers to the final test yield for 7nm chips mentioned in the previous question. Additionally, the semiconductor context indicates that manufacturers typically establish target yield thresholds, often around 95% at the lot level. Without specifying which threshold to compare against, the question lacks necessary specificity for proper workflow generation.
+
+user query:
+
+Are there any unusual patterns in these maps?
+
+prior user queries:
+
+Can you analyze the wafer maps from lot XR729?
+
+Output:
+
+1. **user query**:
+Are there any unusual patterns in these maps?
+
+2. **complete user query**:
+Are there any unusual patterns in the wafer maps from lot XR729, such as abnormal defect clusters or spatial anomalies, that could indicate issues in the production process?
+
+3. **thoughts**:
+The original query uses the ambiguous reference "these maps," which in context clearly refers to the wafer maps from lot XR729 mentioned in the prior query. To create a complete query, I specified that the question pertains to the wafer maps from lot XR729 and added typical semiconductor analysis criteria (e.g., abnormal defect clusters or spatial anomalies) to give clear direction for the analysis.
+
+
+user query:
+
+Can we correlate these failures with any E-test measurements?
+
+prior user queries:
+
+Which test bins had the highest failure rates in Q4 2024?
+
+Output:
+
+1. **user query**:
+Can we correlate these failures with any E-test measurements?
+
+2. **complete user query**:
+Can we correlate the test bin failures observed in Q4 2024, particularly those with the highest failure rates, with E-test measurements (such as voltage levels, leakage currents, and power consumption) to determine if there is a relationship between the electrical characteristics and the observed failures?
+
+3. **thoughts**:
+The original query refers ambiguously to "these failures," which in context relates to the failures in test bins mentioned in the prior query. To make the query complete, I specified that the failures are those in Q4 2024 with the highest failure rates. I also elaborated on E-test measurements by listing typical parameters (voltage, leakage currents, and power consumption) that are commonly correlated with failure analysis in semiconductor testing.
+
+user query:
+
+Do these yield issues persist across multiple lots?
+
+prior user queries:
+
+Can you identify which test house had the lowest lot-level yield last month?
+
+Output:
+
+1. **user query**:
+Do these yield issues persist across multiple lots?
+
+2. **complete user query**:
+Do the yield issues observed at the test house with the lowest lot-level yield last month persist across multiple production lots, and are there any recurring trends or contributing factors that can be identified?
+
+3. **thoughts**:
+The original query's phrase "these yield issues" is ambiguous without clear context. From the prior query, it is evident that the yield issues refer to the poor performance from the test house with the lowest lot-level yield last month. To form a complete query, I explicitly mentioned that context, clarified that the inquiry is about multiple production lots, and added a request to identify any recurring trends or contributing factors.
+
+user query:
+
+Do you see any final test yield drop for project A in 2024?
+
+prior user queries:
+
+What was our final test yield for the 7nm chips in January 2024?
+Can you analyze the wafer maps from lot XR729?
+Which test bins had the highest failure rates in Q4 2024?
+Can we correlate these failures with any E-test measurements?
+
+Output:
+
+1. **user query**:
+Do you see any final test yield drop for project A in 2024?
+
+2. **complete user query**:
+Do you see any significant drop in the final test yield for project A in 2024 when compared to the baseline yield of 7nm chips observed in January 2024, and if so, what is the magnitude of this drop across the production lots over the year?
+
+3. **thoughts**:
+The original query is ambiguous because “project A” and “yield drop” lack a clear reference point. Based on the prior queries, the baseline yield from January 2024 for 7nm chips can serve as a reference for comparison. By specifying that the analysis should compare the 2024 final test yield for project A against this baseline and request details on the magnitude of the drop across production lots, the query is made complete and more actionable for a detailed semiconductor test data analysis.
