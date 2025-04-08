@@ -1,6 +1,8 @@
 # IEA-Plugin Repository
 by Seoyeon Kim and Yu Su <br>
-[IEA Lab People Page](https://iea.ece.ucsb.edu/people/)
+Contact: [IEA Lab People Page](https://iea.ece.ucsb.edu/people/) <br>
+[Seoyeon's LinkedIn](https://www.linkedin.com/in/seoyeonkim1/)  <br>
+[Yu's LinkedIn](https://www.linkedin.com/in/yu-su-b71433274/) <br>
 
 This repository contains additional experiment data that we were not able to include in the IEA-Plugin paper PDF, due to space limitation.
 
