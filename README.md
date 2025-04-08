@@ -1,6 +1,7 @@
 # IEA-Plugin Repository
 by Seoyeon Kim and Yu Su <br>
-Contact: [IEA Lab People Page](https://iea.ece.ucsb.edu/people/) <br>
+Contact: <br>
+[IEA Lab People Page](https://iea.ece.ucsb.edu/people/) <br>
 [Seoyeon's LinkedIn](https://www.linkedin.com/in/seoyeonkim1/)  <br>
 [Yu's LinkedIn](https://www.linkedin.com/in/yu-su-b71433274/) <br>
 
