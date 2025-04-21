@@ -23,7 +23,7 @@ The folder is structured according to the paper organization:
 - Dataset of additional 40 generated queries
 - 1.5 page Scope Description
 
-> **Note:** The order of queries in both the "original 80" and "additional 40" datasets is randomized. They are **not arranged by complexity** (e.g., from simple to multi-step queries).
+> **Note:** The queries in both the “original 80” and “additional 40” datasets are presented in random order in the spreadsheet. They are not organized by complexity level (e.g., simple, moderate, complex, or multi-step).
 
 ### Section 3 Workflows
 - Prompt P[+4] (to GPT-o3-mini)
